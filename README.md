@@ -33,7 +33,7 @@ The **mean face** represents the average of all facial images in the dataset.
 
 ---
 
-### **Top 10 Eigenfaces**
+### **Top 15 Eigenfaces**
 
 The **Eigenfaces** capture the principal components that best represent variations in the dataset.
 
@@ -75,10 +75,9 @@ Eigenfaces are a set of **eigenvectors** used in the computer vision problem of 
 
 - Implement **real-time face recognition** using a webcam.
 - Enhance accuracy using **Fisherfaces (LDA)**.
-- Deploy as a **web app** using frameworks like Flask or Streamlit.
 
 ---
 
 ## 🛠️ Author
-Developed by **[Your Name]**. Feel free to contribute or suggest improvements!
+Developed by **Rishi Chandan Didigam**. Feel free to contribute or suggest improvements!
 EOL

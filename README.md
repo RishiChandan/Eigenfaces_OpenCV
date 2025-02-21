@@ -15,6 +15,14 @@ This project covers:
 
 ---
 
+## 📥 Dataset Source
+
+The facial images used in this project were downloaded from the **CelebA Dataset**, which can be found here:
+
+🔗 **[CelebA Dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)**
+
+---
+
 ## 🚀 Setup and Installation
 
 1. Clone the repository:
